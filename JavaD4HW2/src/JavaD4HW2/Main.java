@@ -10,7 +10,7 @@ public class Main {
 			
 			@Override
 			public boolean check(Customer customer) {
-							return true;
+				return true;
 			}
 		});
 		customerManager2.save(new Customer(1, "Hasan", "Mehmet", "1982","654789"));

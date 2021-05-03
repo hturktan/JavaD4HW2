@@ -20,5 +20,4 @@ public class StarbucksCustomerManager extends CustomerManager{
 		}
 	}
 	
-	
 }
